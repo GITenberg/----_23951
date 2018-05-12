@@ -1,0 +1,27 @@
+_repo: '----_23951'
+_version: 0.1.0
+alternative_title: Xi Jing Za Ji
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Liu, Xin
+    alias: 劉歆
+    deathdate: 23
+    gutenberg_agent_id: '26141'
+    url: http://www.gutenberg.org/2009/agents/26141
+description: ''
+gutenberg_issued: '2007-12-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23951'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DS'
+- !lcsh 'China -- History -- Han dynasty, 202 B.C.-220 A.D. -- Anecdotes'
+title: 西京雜記
+url: http://www.gutenberg.org/ebooks/23951
